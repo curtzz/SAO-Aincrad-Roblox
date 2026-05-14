@@ -2,14 +2,28 @@
   "name": "SAO-Aincrad",
   "tree": {
     "$className": "DataModel",
+
     "ReplicatedStorage": {
       "$path": "src/ReplicatedStorage"
     },
+
     "ServerScriptService": {
       "$path": "src/ServerScriptService"
     },
+
     "StarterPlayer": {
       "$path": "src/StarterPlayer"
+    },
+
+    "StarterPack": {
+      "$path": "src/StarterPack"
+    },
+
+    "Workspace": {
+      "$className": "Workspace",
+      "IllfangBoss": {
+        "$path": "src/Workspace/IllfangBoss"
+      }
     }
   }
 }
